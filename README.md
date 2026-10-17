@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/christian-david-petat%C3%A1n-flores/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/chris_petatan_7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/PcElectronics7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Kiosa7&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kiosa7.Kiosa7&left_text=PROFILE%20VIEWS&left_color=%23555&right_color=%238A2BE2" alt="Profile views" />
 </p>
 
 ---
