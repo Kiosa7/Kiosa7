@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Christian%20Petat%C3%A1n&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%C2%B7%20CDMX%20%F0%9F%87%B2%F0%9F%87%BD&descAlignY=56&descSize=18" width="100%" alt="Christian Petatán" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:00C6FF&height=200&section=header&text=Christian%20Petat%C3%A1n&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%C2%B7%20CDMX,%20M%C3%A9xico&descAlignY=56&descSize=18" width="100%" alt="Christian Petatán" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Kiosa7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%40+Assurant;14+products+live+in+production+%F0%9F%9A%80;2%2C400%2B+commits+in+2026;Next.js+%C2%B7+Angular+%C2%B7+.NET+%C2%B7+Supabase+%C2%B7+Tauri;Shipping+AI-powered+tools+with+Claude+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%40+Assurant;14+products+live+in+production+%F0%9F%9A%80;2%2C400%2B+commits+in+2026;Next.js+%C2%B7+Angular+%C2%B7+.NET+%C2%B7+Supabase+%C2%B7+Tauri;Shipping+AI-powered+tools+with+Claude+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/christian-david-petat%C3%A1n-flores/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/chris_petatan_7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/PcElectronics7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kiosa7.Kiosa7&left_text=PROFILE%20VIEWS&left_color=%23555&right_color=%238A2BE2" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kiosa7.Kiosa7&left_text=PROFILE%20VIEWS&left_color=%23555&right_color=%230969DA" alt="Profile views" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ const christian = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kiosa7&theme=tokyonight&hide_border=true&background=0D1117&ring=E100FF&fire=E100FF&currStreakLabel=C77DFF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Kiosa7&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 </p>
 
 ### 🚀 Projects
@@ -116,5 +116,5 @@ const christian = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:00C6FF&height=120&section=footer" width="100%" alt="" />
 </p>

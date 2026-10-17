@@ -37,7 +37,7 @@ for (const r of repos) {
 const live = repos.filter((r) => r.homepage && !r.homepage.includes("github.com")).length;
 
 // ---------- SVG helpers ----------
-const BG = "#0D1117", TITLE = "#C77DFF", TEXT = "#A9B1D6", VALUE = "#E0E6FF", ACCENT = "#E100FF";
+const BG = "#0D1117", TITLE = "#58A6FF", TEXT = "#A9B1D6", VALUE = "#E0E6FF", ACCENT = "#00C6FF";
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;");
 const fmt = (n) => n.toLocaleString("en-US");
 const card = (w, h, title, body) => `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
