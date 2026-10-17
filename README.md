@@ -1,20 +1,120 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Christian%20Petat%C3%A1n&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%C2%B7%20CDMX%20%F0%9F%87%B2%F0%9F%87%BD&descAlignY=56&descSize=18" width="100%" alt="Christian Petatán" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/Kiosa7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%40+Assurant;14+products+live+in+production+%F0%9F%9A%80;2%2C400%2B+commits+in+2026;Next.js+%C2%B7+Angular+%C2%B7+.NET+%C2%B7+Supabase+%C2%B7+Tauri;Shipping+AI-powered+tools+with+Claude+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💫 About Me:
-👨‍💻 Full-Stack Software Developer @ Assurant<br>🌍 Proudly from Guerrero | Based in CDMX📍🇲🇽<br>✈️ Passionate about lifestyle<br> and adventure: exploring the world, <br>capturing moments, and <br>savoring new cultures <br>and flavors✈️🌍🏝️🗺️🚂🗽🏞️🚢🏕️📸🍲🎢
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kiosa74464) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PcElectronics) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chris_petatan_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-david-petatán-flores) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kiosa7&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kiosa7&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiosa7&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/christian-david-petat%C3%A1n-flores/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/chris_petatan_7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/PcElectronics7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kiosa7&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kiosa7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👋 About me
+
+```ts
+const christian = {
+  role:      "Full-Stack Software Developer @ Assurant",
+  from:      "Guerrero 🌴 → based in CDMX 🇲🇽",
+  building:  ["SaaS platforms", "POS & restaurant systems", "AI copilots", "client websites"],
+  favStack:  ["TypeScript", "Next.js", "Angular", ".NET", "Supabase", "Tauri + Rust"],
+  learning:  ["AI agents", "Local-first apps", "Algorithmic trading"],
+  offline:   "✈️ Traveling, 📸 capturing moments & 🍲 tasting new cultures",
+};
+```
+
+### 📈 My work in numbers
+
+> Most of my work lives in private repos, so these cards are generated from **all** of my repositories (public + private).
+
+<p align="center">
+  <img src="./assets/stats-overview.svg" alt="Overview of all my work" />
+  <img src="./assets/top-langs.svg" alt="Languages across all repos" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kiosa7&theme=tokyonight&hide_border=true&background=0D1117&ring=E100FF&fire=E100FF&currStreakLabel=C77DFF" alt="GitHub streak" />
+</p>
+
+### 🚀 Projects
+
+<sub>🔒 = private repo · 🌐 = live demo</sub>
+
+#### 💼 SaaS & platforms
+
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **Discount to go** 🔒 | NFC-based loyalty SaaS for local businesses in Mexico | Angular · Supabase · Leaflet | [🌐 Live](https://discount-to-go.vercel.app) |
+| **KioRent** 🔒 | Rental management for houses, apartments, rooms & warehouses — who owes, what's due, monthly profit | Angular · .NET · Tailwind | [🌐 Live](https://kiorent.vercel.app) |
+| **Shine Finish SaaS** 🔒 | Operations & booking platform for cleaning businesses | Next.js · .NET | [🌐 Live](https://cleaning-saas-nine.vercel.app) |
+| **RestaurantOS Cloud** 🔒 | Order → kitchen → checkout from any phone, built for a real taquería | Next.js · Supabase · Claude API | [🌐 Live](https://restaurantos-cloud.vercel.app) |
+| **POS Inteligente** 🔒 | AI-first, local-first POS with local AI (Ollama), SQLite & CRDT sync | Tauri · Rust · React | [🌐 Live](https://pos-inteligente.vercel.app) |
+| **[RestaurantOS AI](https://github.com/Kiosa7/restaurantos-ai)** | Local-first / AI-first operating system for restaurants (evolution of POS Inteligente) | Tauri · Rust · React | [📂 Repo](https://github.com/Kiosa7/restaurantos-ai) |
+| **TerraFlow** 🔒 | Land sales & administration: lot map with polygons, clients, contracts, payments & client portal | Angular · Supabase · Leaflet | [🌐 Live](https://terraflow-seven.vercel.app) |
+| **Inverta** 🔒 | Real-estate lead capture & CRM for investment advisors | Next.js · Supabase | [🌐 Live](https://inverta-platform.vercel.app) |
+| **Kiosa Shop** 🔒 | Social marketplace with affiliate commissions + high-performance DDD backend | Angular · .NET · Docker | [📂 v1](https://github.com/Kiosa7/kiosa-shop) |
+
+#### 🧰 Tools & AI
+
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **Calculadora de dosis** 🔒 | Offline-ready PWA for doctors in Mexico: dosing by weight, body surface or fixed dose | Next.js · Drizzle · Postgres | [🌐 Live](https://calculadora-dosis-phi.vercel.app) |
+| **Trading Copilot** 🔒 | Algorithmic trading platform (Freqtrade, Binance dry-run) with an AI copilot | Python · Claude API | — |
+| **Validador de Contabilidad Electrónica** 🔒 | Validator for Mexican SAT electronic accounting files | Angular · Express | — |
+| **[MiNotas](https://github.com/Kiosa7/mi-notas)** | Minimalist, fast notes & checklists app | Angular · Capacitor · Dexie | [📂 Repo](https://github.com/Kiosa7/mi-notas) |
+
+#### 🌐 Websites for clients
+
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **MarketPlace FerreMerk** 🔒 | Conversion-focused hardware store site with local SEO, built to scale to thousands of products | Next.js · Supabase · Drizzle | [🌐 Live](https://ferre-hidalgo.vercel.app) |
+| **EVOBIKE Guerrero** 🔒 | Premium landing for an authorized electric-motorcycle dealer | Next.js · Framer Motion | [🌐 Live](https://evobike-guerrero.vercel.app) |
+| **ACDC Construcciones** 🔒 | Lead-generation landing for an electrical engineering company | Next.js · Supabase | [🌐 Live](https://acdc-landing.vercel.app) |
+| **PAU Logistics** 🔒 | Logistics company site & platform | Nx · Next.js · Supabase | [🌐 Live](https://pau-logistics-landing.vercel.app) |
+| **[GUNDYNASTY](https://github.com/Kiosa7/GUNDYNASTY)** | Site for a pro Mexican Free Fire e-sports team | Next.js · Framer Motion | [📂 Repo](https://github.com/Kiosa7/GUNDYNASTY) |
+| **[PC Electronics](https://github.com/Kiosa7/LandingPage_PcElectronics)** | Landing page for my electronics business | Next.js | [🌐 Live](https://v0-pc-electronics-landing-page.vercel.app) |
+
+#### 🎬 Content & games
+
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **Programación en 60s** 🔒 | Automated pipeline for short coding videos: AI script → AI voice → SFX → render, for TikTok / Reels / Shorts | TypeScript · FFmpeg | — |
+| **HypeFrames** 🔒 | Vertical 9:16 videos teaching AI to people 50+ | Remotion · React | — |
+| **[Kiosa: el imperio de las huertas](https://github.com/Kiosa7/kiosa-el-imperio-de-las-huertas)** | 2D idle arcade game in a single `index.html` | HTML · JS | [📂 Repo](https://github.com/Kiosa7/kiosa-el-imperio-de-las-huertas) |
+
+<details>
+<summary><b>🗂️ Earlier projects</b></summary>
+
+- **ProComisiona** 🔒 — affiliate & commission sales system *(.NET Web API · Angular)*
+- **SysVenta** 🔒 — sales system *(PHP · MySQL · MVC · AJAX)*
+- **SysHospital** 🔒 — hospital management system *(PHP)*
+- **[DancingMouse](https://github.com/Kiosa7/DancingMouse)** — C# console app that moves your cursor around
+- **[FlorAnimada](https://github.com/Kiosa7/FlorAnimada)** — animated flower in JavaScript
+
+</details>
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,nodejs,dotnet,cs,rust,tauri,python&perline=12&theme=dark" alt="Languages & frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,mongodb,php,java,azure,aws,docker,git,vercel,vitest&perline=12&theme=dark" alt="Data, cloud & tools" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiosa7/Kiosa7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kiosa7/Kiosa7/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Kiosa7/Kiosa7/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%" alt="" />
+</p>

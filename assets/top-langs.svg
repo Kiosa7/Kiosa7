@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180">
+<style>
+  .t{font:600 18px 'Segoe UI',Ubuntu,sans-serif;fill:#C77DFF}
+  .l{font:400 13px 'Segoe UI',Ubuntu,sans-serif;fill:#A9B1D6}
+  .v{font:700 26px 'Segoe UI',Ubuntu,sans-serif;fill:#E0E6FF}
+  .s{font:400 11px 'Segoe UI',Ubuntu,sans-serif;fill:#A9B1D6}
+  .f{opacity:0;animation:in .6s ease-out forwards}
+  @keyframes in{to{opacity:1}}
+</style>
+<rect width="495" height="180" rx="10" fill="#0D1117"/>
+<text x="24" y="36" class="t">Languages across all repos</text>
+<clipPath id="c"><rect x="24" y="54" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#c)"><rect x="24.0" y="54" width="205.3" height="10" fill="#3178c6"/><rect x="229.3" y="54" width="61.6" height="10" fill="#e34c26"/><rect x="290.9" y="54" width="49.7" height="10" fill="#f1e05a"/><rect x="340.6" y="54" width="47.5" height="10" fill="#178600"/><rect x="388.1" y="54" width="27.0" height="10" fill="#4F5D95"/><rect x="415.1" y="54" width="22.2" height="10" fill="#563d7c"/><rect x="437.3" y="54" width="16.4" height="10" fill="#336790"/><rect x="453.8" y="54" width="7.6" height="10" fill="#c6538c"/></g>
+<g class="f" style="animation-delay:0ms"><circle cx="29" cy="88" r="5" fill="#3178c6"/><text x="40" y="92" class="l">TypeScript <tspan class="s">45.9%</tspan></text></g>
+<g class="f" style="animation-delay:80ms"><circle cx="259" cy="88" r="5" fill="#e34c26"/><text x="270" y="92" class="l">HTML <tspan class="s">13.8%</tspan></text></g>
+<g class="f" style="animation-delay:160ms"><circle cx="29" cy="110" r="5" fill="#f1e05a"/><text x="40" y="114" class="l">JavaScript <tspan class="s">11.1%</tspan></text></g>
+<g class="f" style="animation-delay:240ms"><circle cx="259" cy="110" r="5" fill="#178600"/><text x="270" y="114" class="l">C# <tspan class="s">10.6%</tspan></text></g>
+<g class="f" style="animation-delay:320ms"><circle cx="29" cy="132" r="5" fill="#4F5D95"/><text x="40" y="136" class="l">PHP <tspan class="s">6.0%</tspan></text></g>
+<g class="f" style="animation-delay:400ms"><circle cx="259" cy="132" r="5" fill="#563d7c"/><text x="270" y="136" class="l">CSS <tspan class="s">5.0%</tspan></text></g>
+<g class="f" style="animation-delay:480ms"><circle cx="29" cy="154" r="5" fill="#336790"/><text x="40" y="158" class="l">PL/pgSQL <tspan class="s">3.7%</tspan></text></g>
+<g class="f" style="animation-delay:560ms"><circle cx="259" cy="154" r="5" fill="#c6538c"/><text x="270" y="158" class="l">SCSS <tspan class="s">1.7%</tspan></text></g>
+</svg>
